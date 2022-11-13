@@ -86,8 +86,7 @@ author:
     #  - label: "Instagram"
     #    icon: "fab fa-fw fa-instagram"
       #  url: "https://instagram.com/"
-social-network-links:
-  email: "someone@example.com"
+ rss: false
  #defaults:
   # _posts
    # - scope:
