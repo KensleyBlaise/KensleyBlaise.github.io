@@ -16,7 +16,7 @@
 title: Kensley Blaise
 email: k.blaise@uea.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in Economics.
+  Welcome to KB website!
 twitter_username: KensleyBlaise
 github_username: KensleyBlaise
 minimal_mistakes_skin: air
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/profile picture_Kensley.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student in Economics at the University of East Anglia (UEA) in the UK. I previously worked at the research department of the Central Bank of Haiti. My academic interests are Macro, Finance and Cryptocurrencies."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
