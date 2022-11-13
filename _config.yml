@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kensley Blaise 
-title: Kensley Blaise 
+title: Kensley Blaise  
 email: k.blaise@uea.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to KB website!
@@ -73,7 +72,7 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kensley-blaise-b18628176/"
-  #   - label: "Instagram"
+    - label: "k.blaise@uea.ac.uk"
       # icon: "fab fa-fw fa-instagram"
      #  url: "https://instagram.com/"
 
