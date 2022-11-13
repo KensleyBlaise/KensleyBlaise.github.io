@@ -15,7 +15,7 @@ author_profile: true
  <sub> Prior to starting my doctoral studies, I worked at the research department of the Central Bank of Haiti. </sub>
  
 
-<sub> My research focuses on macroeconomics, finance and cryptocurrencies.<sub> 
+<sub> **My research focuses on macroeconomics, finance and cryptocurrencies**.<sub> 
   
 ---
 
