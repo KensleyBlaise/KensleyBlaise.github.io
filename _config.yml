@@ -86,7 +86,7 @@ author:
     #  - label: "Instagram"
     #    icon: "fab fa-fw fa-instagram"
       #  url: "https://instagram.com/"
- rss: false
+ 
  #defaults:
   # _posts
    # - scope:
