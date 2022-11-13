@@ -56,22 +56,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Kensley Blaise"
   avatar : "/assets/images/profile picture_Kensley.jpg"
   bio    : "PhD student in Economics at the University of East Anglia (UEA) in the UK. I previously worked at the research department of the Central Bank of Haiti. My academic interests are Macro, Finance and Cryptocurrencies."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+   #  - label: "Website"
+     #  icon: "fas fa-fw fa-link"
+      # url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/KensleyBlaise"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/KensleyBlaise"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/kensley-blaise-b18628176/"
+  #   - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+     #  url: "https://instagram.com/"
 
 footer:
   links:
