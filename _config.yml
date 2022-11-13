@@ -75,7 +75,7 @@ author:
      #  - label: "Instagram"
     #    icon: "fab fa-fw fa-instagram"
       #  url: "https://instagram.com/"
-# footer:
+ footer:
  #  links:
    #  - label: "Twitter"
      #  icon: "fab fa-fw fa-twitter-square"
@@ -86,7 +86,8 @@ author:
     #  - label: "Instagram"
     #    icon: "fab fa-fw fa-instagram"
       #  url: "https://instagram.com/"
-
+social-network-links:
+  email: "someone@example.com"
  #defaults:
   # _posts
    # - scope:
@@ -113,3 +114,4 @@ author:
   # tag_archive:
     # type: liquid
    #  path: /tags/
+
