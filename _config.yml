@@ -72,14 +72,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kensley-blaise-b18628176/"
-   email:
-  id: 'k.blaise@uea.ac.uk'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fa-envelope-square'
-    #  - label: "Instagram"
-    #    icon: "fab fa-fw fa-instagram"
-      #  url: "https://instagram.com/"
+   - label: "Email"
+       icon: "fab fa-fw fa-icon-envelope"
+       url: k.blaise@uea.ac.uk"
 # footer:
  #  links:
    #  - label: "Twitter"
