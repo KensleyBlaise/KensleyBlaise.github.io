@@ -113,5 +113,7 @@ author:
   # tag_archive:
     # type: liquid
    #  path: /tags/
+
+#command to remove the feed in the footer of the webpage
 atom_feed:
   hide: true
