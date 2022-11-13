@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kensley Blaise"
+  name   : ""
   avatar : "/assets/images/profile picture_Kensley.jpg"
   bio    : "PhD student in Economics at the University of East Anglia (UEA) in the UK. I previously worked at the research department of the Central Bank of Haiti. My academic interests are Macro, Finance and Cryptocurrencies."
   links:
@@ -84,9 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    #  - label: "Instagram"
+    #    icon: "fab fa-fw fa-instagram"
+      #  url: "https://instagram.com/"
 
 defaults:
   # _posts
