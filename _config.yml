@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : 
   avatar : "/assets/images/profile picture_Kensley.jpg"
   bio    : "PhD student in Economics at the University of East Anglia (UEA) in the UK. I previously worked at the research department of the Central Bank of Haiti. My academic interests are Macro, Finance and Cryptocurrencies."
   links:
