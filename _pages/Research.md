@@ -1,5 +1,5 @@
 ---
-title: reservoir Computing in Tensorflow
+title: 
 layout: single 
 author_profile: true 
 permalink: /research/ 
