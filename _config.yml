@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kensley Blaise"
+  name   : 
   avatar : "/assets/images/profile picture_Kensley.jpg"
   bio    : "Economics Ph.D. student at the University of East Anglia (UEA) in the UK. Chevening scholar."
   links:
