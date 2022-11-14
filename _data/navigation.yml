@@ -3,7 +3,7 @@ main:
     url: /research/
   - title: "CV"
     url: /cv/
-  - title: "Public Goods"
-    url: /public goods/
+ # - title: "Public Goods"
+  #  url: /public goods/
   - title: "Teaching"
     url: /teaching/
