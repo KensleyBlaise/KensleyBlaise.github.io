@@ -75,7 +75,7 @@ author:
      #  - label: "Instagram"
     #    icon: "fab fa-fw fa-instagram"
       #  url: "https://instagram.com/"
- footer:
+#  footer:
  #  links:
    #  - label: "Twitter"
      #  icon: "fab fa-fw fa-twitter-square"
@@ -87,32 +87,32 @@ author:
     #    icon: "fab fa-fw fa-instagram"
       #  url: "https://instagram.com/"
  
- defaults:
-  _posts
-   - scope:
-     path: ""
-      type: posts
-     values:
-     layout: single
-      author_profile: true
-       read_time: true
-      comments: true
-      share: true
-        related: true
+#  defaults:
+  # _posts
+ #   - scope:
+    #  path: ""
+   #    type: posts
+     # values:
+    #  layout: single
+     #  author_profile: true
+      #  read_time: true
+      # comments: true
+     #  share: true
+      #   related: true
   _pages
-  - scope:
-    path: "_pages"
-     type: pages
-   values:
-     layout: single
-    author_profile: true
+ #  - scope:
+   #  path: "_pages"
+    #  type: pages
+  #  values:
+   #   layout: single
+    # author_profile: true
 
-  category_archive:
-     type: liquid
-    path: /categories/
-  tag_archive:
-    type: liquid
-    path: /tags/
+  # category_archive:
+  #    type: liquid
+  #   path: /categories/
+  # tag_archive:
+  #   type: liquid
+   #  path: /tags/
 
 #command to remove the feed in the footer of the webpage
 atom_feed:
