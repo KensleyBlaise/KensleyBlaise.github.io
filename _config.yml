@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/profile picture_Kensley.jpg"
   bio    : "Economics Ph.D. student at the University of East Anglia (UEA) in the UK. Chevening scholar."
   links:
-    - label: "Email Kensley Blaise"
+    - label: "My email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:k.blaise@uea.ac.uk"
     - label: "Twitter"
