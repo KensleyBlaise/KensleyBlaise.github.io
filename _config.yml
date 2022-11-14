@@ -75,11 +75,8 @@ author:
      #  - label: "Instagram"
     #    icon: "fab fa-fw fa-instagram"
       #  url: "https://instagram.com/"
-  footer:
-   links:
-    - label: "My email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:k.blaise@uea.ac.uk"
+  #footer:
+   
    #  - label: "Twitter"
      #  icon: "fab fa-fw fa-twitter-square"
      #  url: "https://twitter.com/"
