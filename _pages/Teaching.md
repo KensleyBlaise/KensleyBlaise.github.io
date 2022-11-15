@@ -4,8 +4,9 @@ layout: single
 author_profile: true 
 permalink: /teaching/
 ---
-**Econometric Methods for Msc students
-  Teaching Assistant (TA)**
+**Econometric Methods for Msc students**
+
+ **Teaching Assistant (TA)**
 
  <sub> This module is designed for Msc students seeking a high-level understanding of econometric analysis. It is divided into two parts. The first part reviews the fundamental elements of regression analysis, meaning the properties of the OLS estimator, issues in linear models, model evaluation, etc. The second part is devoted to teaching logit, probit and multinomial models. We then finish the module by introducing some elements of classication methods in data analysis. </sub>  
 
