@@ -12,12 +12,9 @@ author_profile: true
   
  <sub> I was awarded merit-based scholarships for my bachelor's degree (Government of Haiti), my master's degree (Chevening scholarhsip) and my doctoral studies (University of East Anglia). </sub>
  
- <sub> Prior to starting my doctoral studies, I worked at the research department of the Central Bank of Haiti. <sub>
+ <sub> Prior to starting my doctoral studies, I worked at the research department of the Central Bank of Haiti. </sub>
  
-My research focuses on:
-  - Macroeconomics 
-  - Finance
-  - Digital Currencies 
+My research focuses on: Macroeconomics Finance Digital Currencies 
 
 <sub> ***NEWS:*** I have recently started a project of cleaning and making available statistics on Haiti. Please get in touch if your research interests cross over my areas of expertise or if you are willing to get data to to conduct research on Haiti.<sub> 
   
