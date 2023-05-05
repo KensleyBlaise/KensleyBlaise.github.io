@@ -18,9 +18,9 @@ author_profile: true
  
 
 <sub> **My research focuses on:** <sub> 
-  - macroeconomics 
-  - finance
-  - cryptocurrencies
+  - Macroeconomics 
+  - Finance
+  - Digital Currencies
 
 <sub> ***NEWS:*** I have recently started a project of cleaning and making available statistics on Haiti. Please get in touch if your research interests cross over my areas of expertise or if you are willing to get data to to conduct research on Haiti.<sub> 
   
