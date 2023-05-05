@@ -17,10 +17,10 @@ author_profile: true
  <sub> Prior to starting my doctoral studies, I worked at the research department of the Central Bank of Haiti. </sub>
  
 
-<sub> **My research focuses on:** <sub> 
+<sub> **My research focuses on:
   - Macroeconomics 
   - Finance
-  - Digital Currencies
+  - Digital Currencies** <sub> 
 
 <sub> ***NEWS:*** I have recently started a project of cleaning and making available statistics on Haiti. Please get in touch if your research interests cross over my areas of expertise or if you are willing to get data to to conduct research on Haiti.<sub> 
   
