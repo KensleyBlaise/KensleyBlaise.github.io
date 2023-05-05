@@ -18,7 +18,6 @@ author_profile: true
  
 
 **My research focuses on:**
-  
   - Macroeconomics 
   - Finance
   - Digital Currencies 
