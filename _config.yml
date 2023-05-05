@@ -58,7 +58,7 @@ plugins:
 author:
   name   : 
   avatar : "/assets/images/kensley-github.jpg"
-  bio    : "Economics Ph.D. student at the University of East Anglia (UEA) in the UK. Chevening scholar."
+  bio    : "Economics Ph.D. student at the University of East Anglia (UEA. Chevening scholar."
   links:
     - label: "My email"
       icon: "fas fa-fw fa-envelope-square"
