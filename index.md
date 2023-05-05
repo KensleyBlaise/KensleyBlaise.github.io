@@ -16,7 +16,7 @@ author_profile: true
  
  <sub> ***My research focuses on: Macroeconomics, Finance and Digital Currencies.*** </sub>
 
-<sub> ***NEWS:*** I have <span style="color:blue"> recently started a project of cleaning and making available statistics on Haiti. Please get in touch if your research interests cross over my areas of expertise or if you are willing to get data to to conduct research on Haiti.</span> 
+<sub> ***NEWS:***  <span style="color:blue"> I have recently started a project of cleaning and making available statistics on Haiti. Please get in touch if your research interests cross over my areas of expertise or if you are willing to get data to to conduct research on Haiti.</span> 
   
 ---
 
