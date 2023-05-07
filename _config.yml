@@ -132,3 +132,11 @@ atom_feed:
 +   background: white;  // set a color to hide content that may appear below masthead
 +   height: 85px; // need a magic number here which may break in different viewports
 }
+body {
+    margin: 0;
+-   padding: 0;
++   padding: 85px 0 0;  // padding-top equal to masthead height or greater
+    color: #494e52;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    line-height: 1.5;
+}
