@@ -117,3 +117,55 @@ author:
 #command to remove the feed in the footer of the webpage
 atom_feed:
   hide: true
+.masthead {
+-  position: relative;
++  position: fixed;
++  top: 0;
++  width: 100%;
++  height: $masthead-height;
++
+   border-bottom: 1px solid $border-color;
+   -webkit-animation: intro 0.3s both;
+           animation: intro 0.3s both;
+@@ -16,6 +20,7 @@
+     @include clearfix;
+     padding: 0.1em 0.1em 0.1em;
+     font-family: $sans-serif-narrow;
++    background-color: #fff;
+
+     @include breakpoint($x-large) {
+       max-width: $x-large;
+diff --git a/_sass/_page.scss b/_sass/_page.scss
+index e95f07d..487c5c7 100644
+--- a/_sass/_page.scss
++++ b/_sass/_page.scss
+@@ -6,6 +6,7 @@
+   @include container;
+   @include clearfix;
+   margin-top: 2em;
++  padding-top: $masthead-height;
+   padding-left: 1em;
+   padding-right: 1em;
+   animation: intro 0.3s both;
+diff --git a/_sass/_sidebar.scss b/_sass/_sidebar.scss
+index 9df17ea..712498a 100644
+--- a/_sass/_sidebar.scss
++++ b/_sass/_sidebar.scss
+@@ -8,6 +8,7 @@
+
+ .sidebar {
+   @include clearfix();
++  padding-top: $masthead-height;
+   margin-bottom: 1em;
+
+   @include breakpoint($large) {
+diff --git a/_sass/_variables.scss b/_sass/_variables.scss
+index d14acf0..eec32ee 100644
+--- a/_sass/_variables.scss
++++ b/_sass/_variables.scss
+@@ -139,3 +139,5 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+ $navicon-width              : 28px;
+ $navicon-height             : 4px;
+ $global-transition          : all 0.2s ease-in-out;
++
++$masthead-height            : 50px;
