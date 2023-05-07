@@ -5,8 +5,9 @@ author_profile: true
 permalink: /research/ 
 ---
 Work in Progress
-
-  *Volatility on the Crypto-currency Market: A Copula-GARCH Approach (with Peter G. Moffatt and Andrea Calef)*
+<span style="color:blue">***NEWS:***.</span>
+ 
+ *Volatility on the Crypto-currency Market: A Copula-GARCH Approach (with Peter G. Moffatt and Andrea Calef)*
 
 <sub> ***NEWS:***  <span style="color:blue"> * Abstract *.</span> 
 
