@@ -1,4 +1,4 @@
-	- - - 
+--- 
 	title: Curriculum Vitae
 	categories: 
 		- Experience
