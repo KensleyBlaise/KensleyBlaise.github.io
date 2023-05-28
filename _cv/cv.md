@@ -4,6 +4,7 @@
 		- Experience
 	tags: 
 		- pdf	
+		
 ## Here's an in-line of my CV
 <div id="adobe-dc-view" style="width: 800px;"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
