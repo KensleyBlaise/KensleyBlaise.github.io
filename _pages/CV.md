@@ -1,5 +1,4 @@
 ---
-
 <div id="adobe-dc-view" style="width: 800px;"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
