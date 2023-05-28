@@ -18,5 +18,4 @@ permalink: /cv/
     );
   });
 </script>
----
 
