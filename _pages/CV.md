@@ -10,8 +10,8 @@ permalink: /cv/
     var adobeDCView = new AdobeDC.View({ clientId: "YOUR_CLIENT_ID", divId: "adobe-dc-view" });
     adobeDCView.previewFile(
       {
-        content: { location: { url: "PATH_TO_YOUR_PDF_FILE" } },
-        metaData: { fileName: "YOUR_FILE_NAME.pdf" }
+        content: { location: { url: "https://github.com/KensleyBlaise/KensleyBlaise.github.io/blob/master/assets/images/Kensley_Blaise_19_08_2022.pdf" } },
+        metaData: { fileName: "Kensley_Blaise_19_08_2022.pdf" }
       },
       { embedMode: "IN_LINE" }
     );
