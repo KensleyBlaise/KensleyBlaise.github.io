@@ -3,7 +3,6 @@ title:CV
 layout: single 
 author_profile: true 
 permalink: /cv/
----
 <div id="adobe-dc-view" style="width: 800px; height: 600px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
