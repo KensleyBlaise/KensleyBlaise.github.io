@@ -13,4 +13,5 @@ permalink: /cv/
 			metaData:{fileName: "Kensley_Blaise_19_08_2022.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
+</script>
 ---
