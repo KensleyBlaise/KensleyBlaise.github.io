@@ -1,6 +1,6 @@
 ---
-title: lala
-layout: single
-author_profile:true
-permalink: /cv/
+title: 
+layout: single 
+author_profile: true 
+permalink: /public_goods/
 ---
