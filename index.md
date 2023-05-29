@@ -5,7 +5,7 @@ excerpt: |
   <br>
 header:
   overlay_image: header_image.jpg
-  overlay_filter: 0.05
+  overlay_filter: 0.1
 author_profile: true
 share: true
 ---
