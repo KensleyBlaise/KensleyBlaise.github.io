@@ -6,6 +6,6 @@ permalink: /Curriculum/
 author_profile: TRUE
 ---
 
-<embed src="assets/images/CV_Kensley_Blaise.pdf" type="application/pdf" />
+<object data="assets/images/CV_Kensley_Blaise.pdf" width="1000" height="1000" type='application/pdf'/>
 
 
