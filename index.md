@@ -1,24 +1,6 @@
 ---
-layout: page
-title: ""
----
-
-<center>Welcome</center>
-
-<br>
-
-<style>
-#header-image {
-  max-width: 500px; /* Adjust the value as needed */
-  max-height: 300px; /* Adjust the value as needed */
-}
-</style>
-
-![Header Image](header_image.jpg){: #header-image }
-
----
 layout: archive
-title: Welcome
+title: <center>Welcome</center>
 excerpt: |
   <br>
 header:
