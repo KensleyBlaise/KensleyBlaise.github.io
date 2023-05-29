@@ -5,8 +5,8 @@
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "assets/images/Kensley_Blaise_19_08_2022.pdf"}},
-			metaData:{fileName: "Kensley_Blaise_19_08_2022.pdf"}
+			content:{location: {url: "assets/images/CV_Kensley_Blaise.pdf"}},
+			metaData:{fileName: "CV_Kensley_Blaise.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
