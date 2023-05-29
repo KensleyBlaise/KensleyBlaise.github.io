@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Welcome
+title: <center>Welcome</center>
 excerpt: |
   <br>
 header:
