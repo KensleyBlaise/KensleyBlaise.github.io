@@ -1,8 +1,14 @@
 ---
-title: 
-layout: single 
-author_profile: true 
-permalink: /research/ 
+layout: archive
+title: PUBLICATIONS
+excerpt: |
+  <br>
+header:
+  overlay_image: header_image.jpg
+  overlay_filter: 0.3
+permalink: /research/
+author_profile: false
+share: true
 ---
 
  <span style="color:blue">***Work in Progress***</span>
