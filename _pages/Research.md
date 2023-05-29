@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: PUBLICATIONS
+title: Work in Progress
 excerpt: |
   <br>
 header:
