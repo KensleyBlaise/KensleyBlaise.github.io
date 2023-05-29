@@ -12,5 +12,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="assets/images/CV_Kensley_Blaise.pdf" width="500" height="500" type='application/pdf'>
+<embed src="https://github.com/KensleyBlaise/KensleyBlaise.github.io/blob/master/assets/images/CV_Kensley_Blaise.pdf" width="500" height="500" type='application/pdf'>
 
