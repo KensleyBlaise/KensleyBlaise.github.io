@@ -1,12 +1,13 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: archive
 title: Welcome
-layout: single
+excerpt: |
+  <br>
+header:
+  overlay_image: header_image.jpg
+  overlay_filter: 0.05
 author_profile: true
-#header:
-  #image: /assets/images/profile picture_Kensley.jpg
+share: true
 ---
  <sub> I am a third year Ph.D. student in Economics at the [University of East Anglia (UEA)](https://www.uea.ac.uk/about/school-of-economics) in the UK. I obtained my master's degree in Economics with distinction from the same university, and my bachelor's degree from the State University of Haiti. I was ranked first out of around 200 students in my undergraduate cohort.  <sub> 
   
