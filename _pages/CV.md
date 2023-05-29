@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-**You can visualize or download my curriculum vitae from the window below.*
+*My most recent curriculum vitae is available from the window below*
 
 <embed src="https://KensleyBlaise.github.io/assets/files/CV of Kensley Blaise.pdf" width="600" height="600" type='application/pdf'>
 
