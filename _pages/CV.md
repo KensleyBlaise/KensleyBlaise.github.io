@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://pivdnber.github.io/files/Van den Berghe Pieter_CV_2022-09-11.pdf" width="500" height="500" type='application/pdf'>
+<embed src="https://github.com/KensleyBlaise/KensleyBlaise.github.io/blob/master/assets/files/CV of Kensley Blaise.pdf" width="500" height="500" type='application/pdf'>
 
