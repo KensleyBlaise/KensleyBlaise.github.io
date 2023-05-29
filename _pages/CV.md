@@ -8,7 +8,7 @@ redirect_from:
 ---
 *My most recent curriculum vitae is available from the window below*
 
-<embed src="https://KensleyBlaise.github.io/assets/files/CV of Kensley Blaise.pdf" width="600" height="600" type='application/pdf'>
+<embed src="https://KensleyBlaise.github.io/assets/files/CV of Kensley Blaise.pdf" width="800" height="800" type='application/pdf'>
 
 
 
