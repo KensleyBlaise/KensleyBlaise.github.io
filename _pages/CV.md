@@ -8,7 +8,7 @@ redirect_from:
 ---
 **You can visualize or download my curriculum vitae from the window below.**
 
-<embed src="https://KensleyBlaise.github.io/assets/files/CV of Kensley Blaise.pdf" width="500" height="500" type='application/pdf'>
+<embed src="https://KensleyBlaise.github.io/assets/files/CV of Kensley Blaise.pdf" width="600" height="600" type='application/pdf'>
 
 
 
