@@ -1,15 +1,23 @@
 ---
 layout: archive
-title: <center>Welcome</center>
+title: Welcome
 excerpt: |
   <br>
 header:
   overlay_image: header_image.jpg
-  overlay_filter: 0.1   
-  image_height: "100px"
+  overlay_filter: 0.1
 author_profile: true
 share: true
 ---
+
+<center>Welcome</center>
+
+<br>
+
+<div style="text-align: center;">
+  <img src="header_image.jpg" alt="Header Image" style="max-width: 500px; max-height: 300px;">
+</div>
+
 
  <sub> I am a third year Ph.D. student in Economics at the [University of East Anglia (UEA)](https://www.uea.ac.uk/about/school-of-economics) in the UK. I obtained my master's degree in Economics with distinction from the same university, and my bachelor's degree from the State University of Haiti. I was ranked first out of around 200 students in my undergraduate cohort.  <sub> 
   
