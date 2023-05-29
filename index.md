@@ -6,6 +6,8 @@ excerpt: |
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.1
+  image_width: "500px"    
+  image_height: "300px"
 author_profile: true
 share: true
 ---
