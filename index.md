@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: Welcome
+title: <center>Welcome</center>
 excerpt: |
   <br>
 header:
   overlay_image: header_image.jpg
-  overlay_filter: 0.1
+  overlay_filter: 0.1   
+  image_height: "50px"
 author_profile: true
 share: true
 ---
