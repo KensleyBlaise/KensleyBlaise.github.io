@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Work in Progress
+title: <center>Work in Progress</center>
 excerpt: |
   <br>
 header:
