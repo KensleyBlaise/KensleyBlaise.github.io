@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <center>Welcome</center>
-excerpt: |
+excerpt: blarg
   <br>
 header:
   overlay_image: header_image.jpg
