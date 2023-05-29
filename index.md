@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <p style="text-align: center;">Welcome</p>
+title: Welcome
 excerpt: |
   <br>
 header:
