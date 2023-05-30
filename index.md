@@ -17,8 +17,6 @@ share: true
  <sub> Prior to starting my doctoral studies, I worked at the research department of the Central Bank of Haiti. </sub>
  
  <sub> ***My research focuses on: Macroeconomics, Finance and Digital Currencies.*** </sub>
-
-<sub> ***NEWS:***  <span style="color:blue"> *I have recently started a project of retrieving statictics from various administrative sources in Haiti and making them available to the public. See the Public Goods item for more or contact me at k.blaise@uea.ac.uk*.</span> 
-  
+ 
 ---
 
