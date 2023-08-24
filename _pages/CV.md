@@ -1,25 +1,15 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Your GitHub Pages Website</title>
-    <style>
-        /* Add CSS styles here to control the appearance of the embedded PDF */
-        iframe {
-            width: 100%;
-            height: 600px;
-            border: none; /* Remove iframe border */
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome to My Website</h1>
-    <h2>Resume</h2>
-    <div>
-        <iframe src="https://KensleyBlaise.github.io/assets/files/CV of Kensley Blaise.pdf&embedded=true"></iframe>
-    </div>
-</body>
-</html>
+---
+layout: single
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+<span style="color:blue"> **My curriculum vitae is available from the window below**</span>
+[Download CV (PDF)](https://KensleyBlaise.github.io/assets/files/CV%20of%20Kensley%20Blaise.pdf){:target="_blank"}
 
 
 
