@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
- <span style="color:blue"> **You can view the latest version of my CV by clicking the link below*</span>
-<a href="https://KensleyBlaise.github.io/assets/files/CV of Kensley Blaise.pdf" target="_blank">Download CV (PDF)</a>
+ <span style="color:blue"> **My curriculum vitae is available from the window below**</span>
+[Download CV (PDF)](https://KensleyBlaise.github.io/assets/files/CV%20of%20Kensley%20Blaise.pdf){:target="_blank"}
 
 
 
