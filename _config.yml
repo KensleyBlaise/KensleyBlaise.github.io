@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : 
+  name   : **Kensley Blaise**
   avatar : "/assets/images/kensley-github.jpg"
-  bio    : "Economics Ph.D. student at the University of East Anglia (UEA. Chevening scholar."
+  bio    : "Economics Ph.D. student at the University of East Anglia (UEA), UK. Chevening Scholar. Central Bank of Haiti.Interests in macro, finance, digital currencies and political economy."
   links:
     - label: "My email"
       icon: "fas fa-fw fa-envelope-square"
