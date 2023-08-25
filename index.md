@@ -1,8 +1,6 @@
 ---
 layout: archive
-title: <div style="text-align: center;">
-  <span style="color: #0074E4; font-size: 24px;">𝓦𝓮𝓵𝓬𝓸𝓶𝓮</span>
-</div>
+title: <center> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 </center>
 excerpt: |
   <blarg>
 header:
