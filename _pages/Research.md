@@ -6,7 +6,6 @@ permalink: /research/
 ---
 <span style="color:blue"> **SELECTED WORK IN PROGRESS**.</span> 
 
- 
  <sub>**1- Volatility on the Crypto-currency Market: A Copula-GARCH Approach (with Peter G. Moffatt and Andrea Calef**)</sub>
 
  <sub> **Abstract:** </sub>
