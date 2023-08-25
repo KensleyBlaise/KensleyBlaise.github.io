@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <center> 𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝔀𝓮𝓵𝓬𝓸𝓶𝓮 </center>
+title: <center> Hey there, welcome </center>
 excerpt: |
   <blarg>
 header:
