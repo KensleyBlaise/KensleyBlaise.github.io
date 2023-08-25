@@ -1,8 +1,7 @@
 ---
 layout: archive
-title: <center> Hey there, welcome </center>
-excerpt: |
-  <blarg>
+title: Hey there, welcome
+excerpt: "<blarg>"
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.1   
@@ -10,6 +9,18 @@ header:
 author_profile: true
 share: true
 ---
+
+<style>
+  /* Define the Verdana font family */
+  .verdana-font {
+    font-family: "Verdana", sans-serif;
+  }
+</style>
+
+<div class="verdana-font" style="text-align: center;">
+  <h1>Hey there, welcome</h1>
+</div>
+
  <sub> I am a third-year Ph.D. student in Economics at the [University of East Anglia (UEA)](https://www.uea.ac.uk/about/school-of-economics) in the UK. I earned my master's degree in Economics with distinction from the same university, and my bachelor's degree from the State University of Haiti, where I ranked first among 200 students in my undergraduate cohort.  <sub> 
   
  <sub> Throughout my academic journey, I have been fortunate to receive full merit-based scholarships for my bachelor's degree (Government of Haiti), my master's degree (Chevening scholarship), and my doctoral studies (University of East Anglia). </sub>
