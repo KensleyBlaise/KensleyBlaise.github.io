@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <center>Welcome</center>
+title: <p align="center">🌟 **Welcome to My GitHub Page!** 🌟</p>
 excerpt: |
   <blarg>
 header:
