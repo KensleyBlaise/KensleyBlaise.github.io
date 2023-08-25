@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <span style="font-weight: 300;">This is normal font weight.</span>
+title: <center> Hey there, welcome </center>
 excerpt: |
   <blarg>
 header:
