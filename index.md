@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <center>Welcome</center>
+title: <p align="center">📈 Hey there, Welcome 📈</p>
 excerpt: |
   <blarg>
 header:
