@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <center> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 </center>
+title: <span style="color: #0074E4;">𝓦𝓮𝓵𝓬𝓸𝓶𝓮</span>
 excerpt: |
   <blarg>
 header:
