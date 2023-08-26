@@ -6,7 +6,7 @@ excerpt: |
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.1   
-  image_height: "30px"
+  image_height: "10px"
 author_profile: true
 share: true
 ---
