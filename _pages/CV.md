@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[My CV is available here)](https://KensleyBlaise.github.io/assets/files/CV%20of%20Kensley%20Blaise.pdf){:target="_blank"}{:style="color: blue;"}
+[My CV is available here](https://KensleyBlaise.github.io/assets/files/CV%20of%20Kensley%20Blaise.pdf){:target="_blank"}{:style="color: blue;"}
 
 
 
