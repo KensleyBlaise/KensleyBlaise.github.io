@@ -11,7 +11,7 @@ share: true
  
  <sub> Before embarking on my doctoral studies, I gained valuable experience working at the research department of the Central Bank of Haiti. </sub>
  
- <sub> ***My research focuses on Finance, Digital Currencies, Theoretical Economics and Applied Econometrics. I also use computational tools to construct and analyze novel datasets on coporate filings. *** </sub>
+ <sub> ***My research focuses on Finance, Digital Currencies, Theoretical Economics and Applied Econometrics. I also use computational tools to construct and analyze novel datasets on coporate filings.*** </sub>
  
  
  
