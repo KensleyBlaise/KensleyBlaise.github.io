@@ -58,7 +58,8 @@ plugins:
 author:
   name   : Kensley Blaise
   avatar : "/assets/images/kensley-github.jpg"
-  bio    : "Economics Ph.D. student at the University of East Anglia (UEA), UK. Chevening Scholar. Central Bank of Haiti. Interests: macro, finance, digital currencies and political economy."
+  bio    : "Economics Ph.D. student at the University of East Anglia (UEA), UK. Chevening Scholar. Central Bank of Haiti. Interests: macro, finance, and applied econometrics."
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
