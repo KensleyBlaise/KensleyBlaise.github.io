@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <center> Hey there, welcome </center>
+title: <center> Hey there, welcome! </center>
 author_profile: true
 share: true
 ---
