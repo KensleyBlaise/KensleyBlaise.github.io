@@ -6,12 +6,6 @@ permalink: /research/
 ---
 <span style="color:blue"> **SELECTED WORK IN PROGRESS** </span> 
 
- <sub>[**1- Volatility on the Crypto-currency Market: A Copula-GARCH Approach (with Peter G. Moffatt and Andrea Calef)**](https://kensleyblaise.github.io/assets/files/crypto_copula.pdf){:target="_blank"}{:style="color: blue;"}</sub>
-
- <sub> **Abstract:** </sub>
- <sub> *This research investigates whether crypto-currency returns correlate with expected uncertainty related to the global economy or other risky markets. In a first attempt, we use the copula framework to estimate the dependence magnitude between returns on the crypto-currency market, the interest rate spread, the breakeven inflation and the volatility index from the S&P500 options (VIX). Our results show that uncertainty information about future policy and the state of the economy contained in the interest rate spread bears no importance in crypto-currency price fluctuations. However, we find a pattern, although relatively small, for high estimated crypto-currency returns volatility to overlap with low VIX values. On another level, we find evidence that dynamic time series models can improve our understanding of price fluctuations on the crypto-currency market. We estimate a 5.6 percentage points increase of today's log-returns on the crypto-currency market for each one percentage point increase of yesterday's breakeven inflation. The effect is instantaneous and about 12 percentage points in recent time periods (2020-2022).* </sub>   
-  
- ---
 
  <sub>[**2- A Continuous-time Theory of Currency Substitution**](https://kensleyblaise.github.io/assets/files/kensley_blaise_currency_substitution.pdf){:target="_blank"}{:style="color: blue;"}</sub>
 
@@ -19,6 +13,14 @@ permalink: /research/
  <sub> *We analyze the coexistence of cash (fiat money) and privately-issued currencies (crypto-currencies) in a dynamic model where all factors of production are paid in fiat money. This introduces a cash-in-advance constraint that affects both consumption and investment, leading to non-neutrality of money. Crypto-currencies add distortions through labor reallocation and transaction fees. Using flexible utility specifications, we explore the impact of substitutability between money and crypto-purchased goods. Our main result is that an increase in the money supply raises inflation and shifts labor allocation, affecting growth dynamics. While broader economic variables remain stable, real wages are highly sensitive to changes in consumer preferences and crypto-fees, underscoring the impact of private digital currencies on the economy's long-term trajectory.* </sub>   
   
  ---
+
+  <sub>[**1- Currency Competition and Monetary Non-neutrality (with Simone Valente)**](https://kensleyblaise.github.io/assets/files/blaise_valente_static_substitution.pdf){:target="_blank"}{:style="color: blue;"}</sub>
+
+ <sub> **Abstract:** </sub>
+ <sub> *We build a theoretical model where both fiat money and crypto-currencies are used as media of exchange for differentiated goods. Crypto-currencies offer pecuniary benefits, such as avoiding consumption taxes, and non-pecuniary benefits like transaction privacy, while non-users face utility losses that grow with available goods. We identify an endogenous threshold good where consumers are indifferent between government-backed money and privately-issued currency, leading to three equilibrium scenarios: all goods purchased with fiat, all with crypto, or a mix of both. Our model predicts that, while fiat money is neutral, crypto-currencies are non-neutral due to mining costs, which affect labor allocation. * </sub>   
+  
+ ---
+ 
   <sub>**3- Information Disclosures and Price Movements: A High-Frequency Identification Approach (with A. Calef and G. vecchio)**</sub>
 
  <sub> **Abstract:** </sub>
