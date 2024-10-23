@@ -9,7 +9,7 @@ share: true
  
  <sub> Before embarking on my doctoral studies, I gained valuable experience working on forecasting and nowcasting projects at the Central Bank of Haiti. I also served as a consultant to the Office of the Prime Minister on macroeconomic policies. </sub>
  
- <sub> ***My academic interests are in Macroeconomics, Finance, and Applied Econometrics. I also use computational tools to construct and analyze novel datasets on corporate filings.*** {:style="color: blue;"}</sub>
+ <sub> ***My academic interests are in Macroeconomics, Finance, and Applied Econometrics. I also use computational tools to construct and analyze novel datasets on corporate filings.*** </sub>
  
  
  
