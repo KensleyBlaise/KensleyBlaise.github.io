@@ -9,7 +9,7 @@ share: true
   
  <sub> Throughout my academic journey, I have been fortunate to receive full merit-based scholarships for my bachelor's degree (Government of Haiti), my master's degree (Chevening scholarship/The British Government), and my doctoral studies (University of East Anglia (UEA)). </sub>
  
- <sub> Before embarking on my doctoral studies, I gained valuable experience working at the research department of the Central Bank of Haiti. </sub>
+ <sub> Before embarking on my doctoral studies, I gained valuable experience working on forecasting and nowcasting projects at the Central Bank of Haiti. I also served as a consultant to the Office of the Prime Minister on macroeconomic policies. </sub>
  
  <sub> ***My academic interests are in Macroeconomics, Finance, and Applied Econometrics. I also use computational tools to construct and analyze novel datasets on corporate filings.*** {:style="color: blue;"}</sub>
  
