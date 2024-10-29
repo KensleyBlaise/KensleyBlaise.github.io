@@ -21,14 +21,14 @@ permalink: /research/
 
   ---
  
-   <sub>***3- Can Firms' Reports Improve Forecasts During Times of Large Shocks? (with Andrea Calef).** [Draft <span style="color: blue;">available upon request</span>].</sub>
+   <sub>***3- Can Firms' Reports Improve Forecasts During Times of Large Shocks? (with Andrea Calef).** [<span style="color: blue;"> Draft available upon request</span>].</sub>
 
  <sub> **Abstract:** </sub>
  <sub> *Building on the approach of Bybee et al. (2024), which utilizes textual analysis of business news to forecast macroeconomic dynamics, this paper explores the potential of firm-level reports to improve forecasts during times of large economic shocks. We propose a framework that incorporates corporate filings, financial disclosures, and firm communications into traditional macroeconomic forecasting models. By employing a text-augmented Vector Autoregressive (VAR) model, we demonstrate the incremental role of firm-level narratives in enhancing forecasts of key economic variables, such as GDP and inflation, particularly during periods of significant disruptions. Our analysis reveals that sentiment extracted from corporate reports provides early signals of economic shifts, complementing traditional indicators and improving the robustness of forecasts. The results show that firm-specific data can serve as a valuable tool for anticipating changes in the business cycle, particularly in volatile environments, adding a new dimension to forecasting accuracy in the face of large shocks.* </sub>  
   
  ---
  
-  <sub>**4- Information Disclosures and Price Movements: A High-Frequency Identification Approach (with A. Calef and G. vecchio).**[Draft <span style="color: blue;">available upon request</span>].</sub>
+  <sub>**4- Information Disclosures and Price Movements: A High-Frequency Identification Approach (with A. Calef and G. vecchio).**[<span style="color: blue;"> Draft available upon request</span>].</sub>
 
  <sub> **Abstract:** </sub>
  <sub> *We constructed a cross-sectional dataset comprising filings from 10,000 corporations in the United States, sourced from the Securities Exchange Commission historical archives, to examine how firms' information disclosures affect equity prices. Traditionally, the efficient market hypothesis posits that essential information is inherently reflected in asset prices. Our dataset includes each firm's risk assessment and descriptions of investments, including future strategic decisions. We align this textual data with high-frequency equity prices to assess market absorption of information. Specifically, we investigate price movements in a 30-minute window surrounding report releases. Our preliminary findings indicate that the market effectively predicts financial information related to new projects and strategic investments. However, managerial decisions often surprise the market, leading to a 2.14\% price decline when corporations announce layoffs or release deceptive information. Additionally, we observe that information becomes more influential in predicting price movements for companies with lower financial valuation. We interpret this finding as suggesting that higher-valued companies may exhibit greater managerial resilience to changes, thereby reducing market perceptions of risk associated with critical information.* </sub>  
