@@ -22,6 +22,7 @@ permalink: /research/
   ---
  
   <sub>**3- Can Firms' Reports Improve Forecasts During Times of Large Shocks? (with Andrea Calef).[Draft available upon request].** {:target="_blank"}{:style="color: blue;"}</sub>
+   **3- Can Firms' Reports Improve Forecasts During Times of Large Shocks? (with Andrea Calef).** [Draft <span style="color: blue;">available upon request</span>].
 
  <sub> **Abstract:** </sub>
  <sub> *Building on the approach of Bybee et al. (2024), which utilizes textual analysis of business news to forecast macroeconomic dynamics, this paper explores the potential of firm-level reports to improve forecasts during times of large economic shocks. We propose a framework that incorporates corporate filings, financial disclosures, and firm communications into traditional macroeconomic forecasting models. By employing a text-augmented Vector Autoregressive (VAR) model, we demonstrate the incremental role of firm-level narratives in enhancing forecasts of key economic variables, such as GDP and inflation, particularly during periods of significant disruptions. Our analysis reveals that sentiment extracted from corporate reports provides early signals of economic shifts, complementing traditional indicators and improving the robustness of forecasts. The results show that firm-specific data can serve as a valuable tool for anticipating changes in the business cycle, particularly in volatile environments, adding a new dimension to forecasting accuracy in the face of large shocks.* </sub>  
