@@ -35,7 +35,7 @@ permalink: /research/
   
  ---
  
-  <sub>**5- Using Digital Records and Machine Learning to Detect Tax Avoidance in Customs Declarations (N. Angelopoulos and R.C. Vincent.**(https://kensleyblaise.github.io/assets/files/tax_evasion.pdf){:target="_blank"}{:style="color: blue;"}</sub>
+ <sub>[**5- Using Digital Records and Machine Learning to Detect Tax Avoidance in Customs Declarations (with N. Angelopoulos and R.C. Vincent.**](https://kensleyblaise.github.io/assets/files/tax_evasion.pdf){:target="_blank"}{:style="color: blue;"}</sub>
 
 
  <sub> **Abstract:** </sub>
