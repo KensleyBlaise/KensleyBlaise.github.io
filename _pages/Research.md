@@ -35,7 +35,8 @@ permalink: /research/
   
  ---
  
-  <sub>**5- Using Digital Records and Machine Learning to Detect Tax Avoidance in Customs Declarations (N. Angelopoulos and R.C. Vincent.**[<span style="color: blue;"> Draft available upon request</span>].</sub>
+  <sub>**5- Using Digital Records and Machine Learning to Detect Tax Avoidance in Customs Declarations (N. Angelopoulos and R.C. Vincent.**(https://kensleyblaise.github.io/assets/files/tax_evasion.pdf){:target="_blank"}{:style="color: blue;"}</sub>
+
 
  <sub> **Abstract:** </sub>
  <sub> *This project uses a large administrative dataset combining customs declarations and firm registration records to study how firms strategically choose tax offices to lower their tax burden. We identify firms that declare goods at offices that do not align with their business location or logistics patterns, which we interpret as potential tax avoidance behaviour. Using machine learning classification and a recentred instrumental variables approach, we estimate a causal relationship showing that for every additional deviation from the nearest appropriate customs office, there is a 9.6 percent increase in the likelihood of paying less tax than the national average for the product declared. Our results suggest that manual processing and uneven enforcement across offices facilitate these practices. We recommend accelerating digitalisation of customs procedures and propose that our model can support real time monitoring and detection of tax evasion risks.* </sub>  
