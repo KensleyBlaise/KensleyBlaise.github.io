@@ -4,7 +4,7 @@ author_profile: true
 title: 
 permalink: /research/
 ---
-<span style="color:blue"> **SELECTED WORK IN PROGRESS** </span> 
+<span style="color:blue"> **RESEARCH PAPERS** </span> 
 
 
  <sub>[**1- Volatility on the Crypto-currency Market: A Copula-GARCH Approach.**](https://kensleyblaise.github.io/assets/files/crypto_copula.pdf){:target="_blank"}{:style="color: blue;"}</sub>
