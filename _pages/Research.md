@@ -7,7 +7,7 @@ permalink: /research/
 <span style="color:blue"> **SELECTED WORK IN PROGRESS** </span> 
 
 
- <sub>[**1- Volatility on the Crypto-currency Market: A Copula-GARCH Approach.**](https://kensleyblaise.github.io/assets/files/kensley_blaise_ crypto_copula.pdf){:target="_blank"}{:style="color: blue;"}</sub>
+ <sub>[**1- Volatility on the Crypto-currency Market: A Copula-GARCH Approach.**](https://kensleyblaise.github.io/assets/files/kensley_blaise_crypto_copula.pdf){:target="_blank"}{:style="color: blue;"}</sub>
 
  <sub> **Abstract:** </sub>
 
