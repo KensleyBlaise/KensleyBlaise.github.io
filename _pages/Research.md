@@ -27,9 +27,13 @@ permalink: /research/
  <sub> We build a theoretical model where both fiat money and crypto-currencies are used as media of exchange for differentiated goods. Crypto-currencies offer pecuniary benefits, such as avoiding consumption taxes, and non-pecuniary benefits like transaction privacy, while non-users face utility losses that grow with available goods. We identify an endogenous threshold good where consumers are indifferent between government-backed money and privately-issued currency, leading to three equilibrium scenarios: all goods purchased with fiat, all with crypto, or a mix of both. Our model predicts that, while fiat money is neutral, crypto-currencies are non-neutral due to mining costs, which affect labor allocation. * </sub>   
 
   ---
- 
-   <sub>[**4- A Direct Test of the Fundamental Assumption of Option Pricing Models using Big Data Analytics (with Peter G MOFFATT and Anthony REZITIS).**]
-(https://kensleyblaise.github.io/assets/files/options.pdf){:target="_blank"}{:style="color: blue;"}</sub>
+ <sub>
+<a href="https://kensleyblaise.github.io/assets/files/options.pdf" target="_blank" style="color: blue;">
+4- A Direct Test of the Fundamental Assumption of Option Pricing Models using Big Data Analytics
+(with Peter G. Moffatt and Anthony Rezitis)
+</a>
+</sub>
+
   
 
 
