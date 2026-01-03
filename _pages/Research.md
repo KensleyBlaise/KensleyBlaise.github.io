@@ -29,8 +29,8 @@ permalink: /research/
   ---
  <sub>
 <a href="https://kensleyblaise.github.io/assets/files/options.pdf" target="_blank" style="color: blue;">
-4- A Direct Test of the Fundamental Assumption of Option Pricing Models using Big Data Analytics
-(with Peter G. Moffatt and Anthony Rezitis)
+4- **A Direct Test of the Fundamental Assumption of Option Pricing Models using Big Data Analytics
+(with Peter G. Moffatt and Anthony Rezitis)**
 </a>
 </sub>
 
