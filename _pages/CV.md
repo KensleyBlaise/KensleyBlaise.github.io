@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<sub><a href="https://kensleyblaise.github.io/assets/files/CV__of_Kensley_Blaise.pdf" target="_blank" style="color: blue;">My CV is available here</a></sub>
+<sub><a href="https://kensleyblaise.github.io/assets/files/Kensley_Blaise__CV.pdf" target="_blank" style="color: blue;">My CV is available here</a></sub>
