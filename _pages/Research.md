@@ -14,6 +14,13 @@ permalink: /research/
  <sub> *This study analyzes the relationship between crypto-currencies, proxied by a Bitcoin (BTC) and Ether (ETH) index, and key macroeconomic variables from April 2013 to May 2024. We focus on US term spread, Volatility Index (VIX), and 5-year breakeven inflation as predictors. Our findings reveal no significant dependence between returns and the term spread, suggesting investors do not consider policy paths or economic cycles when trading crypto-currencies. In contrast, extreme low VIX values are linked to high Crypto-currency Market (CM) volatility, with upper tail dependence estimated at 3.7\% and 7.6\% using Gumbel-Hougaard and Joe copulas, respectively. Our copula modeling exercise also shows a weak correlation of crypto-currency returns with breakeven inflation. Robustness checks, including a sub-sample analysis and variable transformation, confirm these results. We find that while crypto-currencies exhibit weak links to certain financial fundamentals, they respond differently to economic indicators compared to traditional assets, showing increased returns during restrictive monetary policies. The study highlights a need for further research integrating extreme events with dynamic time series analysis to better understand these relationships.* </sub> 
 
 
+  <sub>[**1- Cross-Asset Lead-Lag Dynamics in the Tails.**](https://kensleyblaise.github.io/assets/files/Cross_Assets.pdf){:target="_blank"}{:style="color: blue;"}</sub>
+
+ <sub> **Abstract:** </sub>
+
+ <sub> *TThis study asks whether the risk linkages across U.S. equity sectors behave differently during market crashes and rallies than during normal trading. Using quantile Granger causality tests on 15 assets spanning all major sectors and key benchmarks, we find that cross-sector spillovers are overwhelmingly a tail phenomenon. Predictive linkages are strong during extreme market movements but virtually absent under normal conditions, producing a robust U-shaped pattern across the return distribution. The nature of these spillovers is regime-dependent. Crash-driven predictive linkages dominate during monetary-tightening periods, while symmetric tail spillovers emerge during crisis-recovery episodes. These results suggest that conventional correlation-based risk metrics, which rely on full-sample averages, may understate cross-sector vulnerability during extreme events.* </sub> 
+
+
  <sub>[**2- A Continuous-time Theory of Currency Substitution.**](https://kensleyblaise.github.io/assets/files/kensley_blaise_currency_substitution.pdf){:target="_blank"}{:style="color: blue;"}</sub>
 
  <sub> **Abstract:** </sub>
