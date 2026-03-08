@@ -14,7 +14,7 @@ permalink: /research/
  <sub> *This study analyzes the relationship between crypto-currencies, proxied by a Bitcoin (BTC) and Ether (ETH) index, and key macroeconomic variables from April 2013 to May 2024. We focus on US term spread, Volatility Index (VIX), and 5-year breakeven inflation as predictors. Our findings reveal no significant dependence between returns and the term spread, suggesting investors do not consider policy paths or economic cycles when trading crypto-currencies. In contrast, extreme low VIX values are linked to high Crypto-currency Market (CM) volatility, with upper tail dependence estimated at 3.7\% and 7.6\% using Gumbel-Hougaard and Joe copulas, respectively. Our copula modeling exercise also shows a weak correlation of crypto-currency returns with breakeven inflation. Robustness checks, including a sub-sample analysis and variable transformation, confirm these results. We find that while crypto-currencies exhibit weak links to certain financial fundamentals, they respond differently to economic indicators compared to traditional assets, showing increased returns during restrictive monetary policies. The study highlights a need for further research integrating extreme events with dynamic time series analysis to better understand these relationships.* </sub> 
 
 
-  <sub>[**2- Cross-Asset Lead-Lag Dynamics in the Tails.**](https://kensleyblaise.github.io/assets/files/Cross_Assets.pdf){:target="_blank"}{:style="color: blue;"}</sub>
+  <sub>[**2- Cross-Asset Lead-Lag Dynamics in the Tails.**](https://kensleyblaise.github.io/assets/files/Cross_Asset_Lead.pdf){:target="_blank"}{:style="color: blue;"}</sub>
 
  <sub> **Abstract:** </sub>
 
